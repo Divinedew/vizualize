@@ -1,0 +1,39 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 85px;
+	background: url(header4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size: 65px;
+	font-family: cardo;
+	color: sienna;
+}
+p{
+	font-size: 20px;
+	font-family: open sans;
+}
+
+.btn{
+	border-radius: 50px;
+}
+
+.btn-primary{
+	background-color: peru;
+	border-color: peru;
+}
+
+.btn-primary:hover{
+	background-color: sienna ;
+	border-color: sienna;
+	border-width: 2px;
+}
+
+.btn-xl{
+	padding: 8px 33px;
+}
+
